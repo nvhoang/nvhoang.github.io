@@ -6,8 +6,10 @@ category: tech
 tags: [ 'golang','resource' ]
 ---
 
-I have been interested in golang. Here are a couple of resources. Will keep updated.
+I have been interested in golang. Here are a couple of resources. Will keep updated the list.
 
-* vim-golang-ide: http://farazdagi.com/blog/2015/vim-as-golang-ide/
-* books:
-**
+### IDE/Editors
+vim-golang-ide: http://farazdagi.com/blog/2015/vim-as-golang-ide/
+
+### Books:
+
