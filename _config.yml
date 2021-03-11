@@ -29,8 +29,8 @@ force-https: True
 #############
 
 lang: "en"
-author: "Hoang Nguyen"
-title: "/Hoang Nguyen"
+author: "Andrew Nguyen"
+title: "/Andrew Nguyen"
 description: "My personal blog. All rights are reserved."
 keywords: "hoang, nguyen, personal, big data, mobile, google, startups, vietnam, saigon, hacking"
 favicon: "/img/favicon.ico"
